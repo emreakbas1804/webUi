@@ -1,0 +1,347 @@
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/global.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/package-lock.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.deps.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.runtimeconfig.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.runtimeconfig.dev.json
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.pdb
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/en/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/tr/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.Views.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/webUi.Views.pdb
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.csprojAssemblyReference.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.AkilliSehir.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.AkilliSehir.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Aqbot.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Aqbot.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Copluk.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Copluk.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HaberAkilliSehirler.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HaberAkilliSehirler.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Haberler.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Haberler.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaLite.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaLite.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaPro.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaPro.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaSmart.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.HavaSmart.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Iletisim.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Iletisim.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Index.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Index.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Istasyon.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Istasyon.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuLite.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuLite.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuPro.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuPro.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuSmart.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KokuSmart.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KullanimAlanlari.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.KullanimAlanlari.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Maden.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Maden.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.ornek.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.ornek.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Otoyol.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Otoyol.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Referanslar.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Referanslar.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Teklif.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Teklif.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Tesis.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.Tesis.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.TozPro.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.TozPro.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.TozSmart.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.TozSmart.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.urunler.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.urunler.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.YasamAlani.en.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Teknoloji.YasamAlani.tr.resources
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.GenerateResource.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.AssemblyInfoInputs.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.AssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.CoreCompileInputs.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.MvcApplicationPartsAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.RazorAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.RazorAssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/en/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/en/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/tr/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/tr/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.TagHelpers.input.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.TagHelpers.output.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.RazorCoreGenerate.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/DanismanlikTeklif.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/DanismanlikTeklifDetay.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GelenMesajDetay.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/GelenMesajlar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/Index.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/TeknolojiTeklif.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Admin/TeknolojiTeklifDetay.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Belgeler.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/CedIzni.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Gsm.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Hava.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Hizmetlerimiz.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Iletisim.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Index.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Kurumsal.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Maden.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Referanslar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/Teklif.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/TreeDModel.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Login.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_AdminNavbar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_DanismanlikFooter.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_DanismanlikNavbar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ResultMessage.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_TeknolojiNavbar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/AkilliSehir.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Aqbot.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Copluk.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/HaberAkilliSehirler.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Haberler.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/HavaLite.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/HavaPro.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/HavaSmart.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Iletisim.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Index.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Istasyon.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/KokuLite.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/KokuPro.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/KokuSmart.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/KullanimAlanlari.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Maden.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Otoyol.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Referanslar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Teklif.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Tesis.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/TozPro.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/TozSmart.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/Urunler.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Teknoloji/YasamAlani.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.RazorTargetAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.RazorTargetAssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.Views.pdb
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.CopyComplete
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/staticwebassets/webUi.StaticWebAssets.Manifest.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/staticwebassets/webUi.StaticWebAssets.xml
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.dll
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.pdb
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/webUi.genruntimeconfig.cache
+/Users/emre/Documents/Projelerim/Ak-ko/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Danismanlik/CevreDanismanligi.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/global.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/package-lock.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.deps.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.runtimeconfig.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.runtimeconfig.dev.json
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.pdb
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/en/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/es/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/it/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/tr/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.Views.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/webUi.Views.pdb
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.JsonPatch.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.AspNetCore.Razor.Language.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Bcl.HashCode.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.CodeAnalysis.Razor.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Data.Sqlite.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.DotNet.PlatformAbstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Design.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Caching.Memory.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.DependencyModel.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Newtonsoft.Json.Bson.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/Pomelo.JsonObject.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.batteries_v2.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.nativelibrary.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.core.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/SQLitePCLRaw.provider.dynamic_cdecl.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/win-arm/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/e_sqlite3.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.csprojAssemblyReference.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.contact.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.contact.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.contact.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.contact.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.offer.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.offer.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.offer.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Contact.offer.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.footer.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.footer.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.footer.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.footer.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Index.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Kurumsal.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Kurumsal.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Kurumsal.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Kurumsal.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Navbar.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Navbar.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Navbar.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Navbar.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Projects.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Projects.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Projects.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Projects.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Referances.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Referances.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Referances.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Home.Referances.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana1.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana1.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana1.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana1.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana2.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana2.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana2.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Adana2.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Andritz.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Andritz.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Andritz.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Andritz.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Aydin.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Aydin.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Aydin.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.Aydin.tr.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.GenerateResource.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.AssemblyInfoInputs.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.AssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.CoreCompileInputs.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.MvcApplicationPartsAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.RazorAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.RazorAssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/en/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/en/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/es/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/es/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/it/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/it/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/tr/webUi.resources.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/tr/webUi.resources.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.TagHelpers.input.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.TagHelpers.output.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.RazorCoreGenerate.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Contact.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Contact/Offer.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Error404.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/footer.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Kurumsal.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/navbar.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Projects.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Home/Referances.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Adana1.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Adana2.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Andritz.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Projects/Aydin.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Shared/_ResultMessage.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.RazorTargetAssemblyInfo.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.RazorTargetAssemblyInfo.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Views.pdb
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.csproj.CopyComplete
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/staticwebassets/webUi.StaticWebAssets.Manifest.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/staticwebassets/webUi.StaticWebAssets.xml
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.dll
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.pdb
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.genruntimeconfig.cache

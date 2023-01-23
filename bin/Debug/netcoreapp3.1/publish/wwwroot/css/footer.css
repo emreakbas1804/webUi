@@ -1,0 +1,33 @@
+
+.footer{
+    padding: 60px 0px;
+    background-color: #f3f3f3;
+}
+.footer img{
+    width: 90px;
+}
+.footer h4{
+    margin-top: 30px;
+}
+.footer ul{
+    padding-left: 0px;
+    margin-top: 40px;
+}
+.footer li{
+    list-style-type: none;
+    margin-top: 10px;
+}
+.footer i{
+    color: #005334;
+    font-size: 20px;
+    margin-right: 5px;
+}
+.footer .diger ul{
+   margin: 6px;
+   padding: 10px;
+   font-size: 15px;
+   border-radius: 10px;
+}
+.footer .diger i{
+    font-size: 15px;
+}

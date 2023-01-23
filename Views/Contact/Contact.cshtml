@@ -1,0 +1,161 @@
+@model ContactModel
+@inject IViewLocalizer localizer
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Soru öneri ve şikayetleriniz için bizlerle iletişim kurabilirsiniz. ">
+    <title>TOR-SERVİCES | İletişim</title>
+    <link rel="icon" type="image/x-icon" href="/images/tor-logo.webp">
+    <link rel="stylesheet" href="~/content/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel&family=Mukta:wght@300&family=PT+Serif&family=Shadows+Into+Light&family=Ubuntu:wght@300&display=swap">
+    <style>
+        .header1 {
+            padding-top: 30px;
+            padding-bottom: 70px;
+        }
+
+        .header1 .row {
+            margin-top: 50px;
+        }
+
+        .header1 h2 {
+            color: #005334;
+            text-align: center;
+        }
+
+        .header1 img {
+            width: 100%;
+            border-radius: 10px;
+        }
+
+        .header1 button {
+            border: none;
+            background-color: #005334;
+            color: white;
+            float: right;
+            padding: 10px;
+            border-radius: 5px;
+            transition: all .2s;
+            margin-top: 10px;
+        }
+
+        .header1 button:hover {
+            background-color: #fd0000;
+        }
+        #loading {            
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: #fff;
+        }
+        #loading img{
+            position: relative;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%); 
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="loading">
+        <img src="~/images/loading.gif" alt="loading">
+    </div>
+
+    <div class="loading-content">
+
+        @await Html.PartialAsync("/Views/Home/navbar.cshtml")
+
+        <div class="header1">
+            <div class="container">
+                <h2>@localizer["0"]</h2>
+                <hr>
+                <div class="message">
+                    @if (TempData["message"] != null)
+                    {
+                        <partial name="_ResultMessage" model="@(TempData.Get<AlertMessage>("message"))" />
+                    }
+                </div>
+                <div class="row">
+
+                    <div class="col-md-7 mb-3">
+                        <form method="post">
+                            <input type="hidden" name="dil" id="dil">
+                            <div class="mb-3">
+                                <input type="text" class="form-control" placeholder='@localizer["1"]' asp-for="Mail">
+                            </div>
+                            <div class="mb-3">
+                                <input type="text" class="form-control" placeholder='@localizer["2"]' asp-for="Phone">
+                            </div>
+                            <div class="mb-3">
+                                <textarea asp-for="Message" class="form-control" rows="6"
+                                    placeholder='@localizer["3"]'></textarea>
+                            </div>
+                            <div>
+                                <input type="checkbox" id="kvkk" class="mt-3" name="KVKK" value="true">
+                                <label for="kvkk" id="kvkk">@localizer["4"]</label>
+                            </div>
+                            <button type="submit">@localizer["5"] --></button>
+
+
+                        </form>
+                    </div>
+
+                    <div class="col-md-5">
+                        <img src="~/images/iletisim.webp" alt="images" loading="lazy">
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+        @await Html.PartialAsync("/Views/Home/footer.cshtml")
+
+    </div>
+
+
+
+    <script src="~/content/jquery/dist/jquery.min.js"></script>
+    <script src="~/content/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script src="~/content/sweetalert2/dist/sweetalert2.all.js"></script>
+    <script>
+        $("#kvkk").click(function () {
+            Swal.fire({
+                title: '@localizer["6"]',
+                text: '@localizer["7"]',
+                confirmButtonText: 'Onaylıyorum.'
+            })
+        });
+        window.onload = function () {
+            $('#loading').hide();
+            var url = window.location.href.split("/");            
+            if (url[3] == "en") {
+                $("#dil").val("en");
+            }
+            else if (url[3] == "es") {
+                $("#dil").val("es");
+            }
+            else if (url[3] == "it") {
+                $("#dil").val("it");
+            }
+            else {
+                $("#dil").val("tr");
+            }
+        }
+
+    </script>
+</body>
+
+</html>

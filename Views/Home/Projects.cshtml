@@ -1,0 +1,174 @@
+@inject IViewLocalizer localizer
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Gerçekleştirdiğimiz bazı projeler">
+    <meta name="author" content="Tor services">
+    <meta name="publisher" content="Tor services">
+    <title>TOR-SERVİCES | Projelerimiz</title>
+    <link rel="icon" type="image/x-icon" href="/images/tor-logo.webp">
+    <link rel="stylesheet" href="~/content/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Cinzel&family=Mukta:wght@300&family=PT+Serif&family=Shadows+Into+Light&family=Ubuntu:wght@300&display=swap">
+    <style>
+        .header1 {
+            padding: 30px 0px;
+            text-align: center;
+        }
+
+        .header1 .row {
+            justify-content: center;
+            align-items: center;
+        }
+
+        .header1 a {
+            text-decoration: none;
+            color: #005334;
+        }
+
+        .header1 .content {
+            margin: 15px 10px;
+            border: 1px solid #005334;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            transform: scale(.95);
+            transition: transform .3s;            
+        }
+        .header1 h2, .header1 hr{
+            color: #005334;
+        }
+
+        .header1 .content img {
+            width: 100%;
+            border-top-left-radius: 10px;
+            border-top-right-radius: 10px;
+            max-height: 350px;
+            object-fit: cover;
+        }
+
+        .content h3 {
+            font-size: 21px;
+            margin: 0px;
+            padding: 20px 10px;
+            background-color: #f3f3f3;
+        }
+
+        .header1 .content:hover {
+            transform: scale(1);
+        }
+
+        .header1 .content:hover h3 {
+            background-color: white;
+        }
+        #loading {            
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: #fff;
+        }
+        #loading img{
+            position: relative;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%); 
+        }
+    </style>
+</head>
+
+<body>
+    <div id="loading">
+        <img src="~/images/loading.gif" alt="loading">
+    </div>
+
+    <div class="loading-content">
+
+        @await Html.PartialAsync("/Views/Home/navbar.cshtml")
+
+
+        <div class="header1">
+            <div class="container">
+                <div class="row">
+                    <h2 class="pb-3">@localizer["0"]</h2>
+                    <hr>
+
+                    <div class="col-md-6">
+                        <a href="adana-unite-1" title="adana-unite-1">
+                            <div class="content">
+                                <img src="~/images/adana-unite-2/8.webp" alt="image">
+                                <h3>@localizer["1"]</h3>
+                            </div>
+                        </a>
+                    </div>
+
+
+                    <div class="col-md-6">
+                        <a href="adana-unite-2" title="adana-unite-2">
+                            <div class="content">
+                                <img src="~/images/adana-unite-2/1.webp" alt="image">
+                                <h3>@localizer["2"]</h3>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6">
+                        <a href="aydin-kagit" title="aydin-kagit-fabrikasi">
+                            <div class="content">
+                                <img src="~/images/aydin-kagit/1.webp" alt="image">
+                                <h3>@localizer["3"]</h3>
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-md-6">
+                        <a href="andritz" title="andritz">
+                            <div class="content">
+                                <img src="~/images/andritz/logo.webp" alt="image">
+                                <h3>@localizer["4"]</h3>
+                            </div>
+                        </a>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+
+
+        @await Html.PartialAsync("/Views/Home/footer.cshtml")
+
+    </div>
+
+
+
+
+    <script src="~/content/jquery/dist/jquery.min.js"></script>
+    <script src="~/content/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script>
+
+        window.onload = function () {
+            $('#loading').hide();
+            window.sr = new ScrollReveal();
+
+            sr.reveal(".header1 .col-md-6", {
+                distance: "100px",
+                origin: "bottom",
+                opacity: 0,
+                scale: 0.4,
+                interval: 300,
+            });
+
+        }
+
+    </script>
+</body>
+
+</html>

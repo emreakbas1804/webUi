@@ -1,0 +1,126 @@
+@inject IViewLocalizer localizer
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Endüstriyel servis/bakım sektöründe dünya çapında hizmet vermek, iş ortaklarımızın hedefledikleri üretime engel olan her türlü mekanik aksam sorunlarını en güvenli, inovatif, ve özellikle rakip tanımaz kısa süreli çözümlerle gidermek, ve alanında küresel ölçekte liderliği hedefleyen bir firma olmayı amaçlıyoruz.">
+    <meta name="author" content="Tor services">
+    <meta name="publisher" content="Tor services">
+    <title>TOR-SERVİCES | Kurumsal</title>
+    <link rel="icon" type="image/x-icon" href="/images/tor-logo.webp">
+    <link rel="stylesheet" href="~/content/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Mukta:wght@300&family=PT+Serif&family=Shadows+Into+Light&family=Ubuntu:wght@300&display=swap">    
+    <style>
+        .header1{
+            padding: 40px 0px;
+        }        
+        .header1 h2{
+            border-bottom: 1px solid #005334;
+            display: inline-block;
+            color: #005334;
+        }
+        .image1{
+            width: 100%;
+            height: 250px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        .image2{
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+            border-radius: 5px;
+        }
+        #loading {            
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: #fff;
+        }
+        #loading img{
+            position: relative;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%); 
+        }
+    </style>
+</head>
+
+<body>
+
+    <div id="loading">
+        <img src="~/images/loading.gif" alt="loading">
+    </div>
+
+   <div class="loading-content">
+        @await Html.PartialAsync("/Views/Home/navbar.cshtml")
+
+        <div class="header1">
+            <div class="container">
+                <div class="header">
+                    <h2>@localizer["0"]</h2>
+                    <div class="row mt-4">
+                        <div class="col-md-8">
+                            <p>
+                                @localizer["1"]
+                            </p>
+                        </div>
+                        <div class="col-md-4"> 
+                            <img src="~/images/kurumsal1.webp" alt="image" class="image1">
+                        </div>
+                    </div>                
+                </div>
+                <div class="header mt-5">
+                    <h2>@localizer["2"]</h2>
+                    <div class="row mt-4">
+                        <div class="col-md-8">
+                            <p>
+                                @localizer["3"]
+                            </p>
+                        </div>
+                        <div class="col-md-4"> 
+                            <img src="~/images/kurumsal2.webp" alt="image" class="image2">
+                        </div>
+                    </div>                
+                </div>
+                <div class="header my-5">
+                    <h2>@localizer["4"]</h2>
+                    <div class="row mt-4">
+                        <div class="col-md-8">
+                            <p>
+                            @localizer["5"]
+                            </p>
+                        </div>
+                        <div class="col-md-4"> 
+                            <img src="~/images/kurumsal3.webp" alt="image" class="image2">
+                        </div>
+                    </div>                
+                </div>
+            </div>
+        </div>
+
+        @await Html.PartialAsync("/Views/Home/footer.cshtml")
+    </div>
+
+
+
+
+
+    <script src="~/content/jquery/dist/jquery.min.js"></script>     
+    <script>
+        window.onload = function () {
+            $('#loading').hide();           
+        }
+    </script>
+</body>
+
+</html>

@@ -1,0 +1,90 @@
+@inject IViewLocalizer localizer
+<link rel="stylesheet" href="~/css/navbar.css">
+<div class="nav">
+    <div class="container">
+
+        <a href="./" class="img-link" title="ana-sayfa">
+            <img src="~/images/tor-logo.webp" alt="logo" class="nav-img">
+        </a>
+
+        <div class="nav-items-div" id="nav-links">
+            <ul>                
+                <a href="projelerimiz" title="projelerimiz">
+                    <li>@localizer["1"]</li>
+                </a>
+                <a href="referanslarimiz" title="referanslarimiz">
+                    <li>@localizer["2"]</li>
+                </a>
+                <a href="kurumsal" title="kurumsal">
+                    <li>@localizer["3"]</li>
+                </a>
+                <a href="iletisim" title="iletisim">
+                    <li>@localizer["4"]</li>
+                </a>
+                <select>
+                    <option value="tr">🇹🇷</option>
+                    <option value="en">🇬🇧</option>
+                    <option value="es">🇪🇸</option>
+                    <option value="it">🇮🇹</option>
+                </select>
+            </ul>
+        </div>
+
+        <i class="fas fa-bars nav-icon"></i>
+    </div>
+</div>
+<script src="~/content/jquery/dist/jquery.js"></script>
+<script>
+    $('.nav-icon').click(function () {
+        $('#nav-links').toggle("bilind");
+        return false;
+    });
+    var url = window.location.pathname.split("/")[2]
+    if(url == undefined)
+    {
+        var url = window.location.pathname.split("/")[1]
+    }
+    $("select").change(function () {
+        var value = this.value;
+        switch (value) {
+            case "tr":
+                window.location.href = "/tr/"+url
+                break;
+
+            case "en":
+                window.location.href = "/en/"+url
+                break;
+
+            case "es":
+                window.location.href = "/es/"+url
+                break;
+
+            case "it":
+                window.location.href = "/it/"+url
+                break;
+
+            default:
+                break;
+        }
+    });
+   var language = window.location.pathname.split("/")[1];
+    switch (language) {
+        case "tr":
+            $("select option[value=tr]").prop("selected", true);
+            break;
+
+        case "en":
+            $("select option[value=en]").prop("selected", true);
+            break;
+
+        case "es":
+            $("select option[value=es]").prop("selected", true);
+            break;
+
+        case "it":
+            $("select option[value=it]").prop("selected", true);
+            break;
+
+    }
+
+</script>
