@@ -1,0 +1,151 @@
+@inject IViewLocalizer localizer
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Adana Enerjisa Tufanbeyli Termik Santrali Ünite 1">
+    <meta name="author" content="Tor services">
+    <meta name="publisher" content="Tor services">
+    <title>Tor Services Portable Lathe Machine Projects </title>
+    <link rel="icon" type="image/x-icon" href="/images/tor-logo.webp">
+    <link rel="stylesheet" href="~/content/bootstrap/dist/css/bootstrap.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel&family=Mukta:wght@300&family=PT+Serif&family=Shadows+Into+Light&family=Ubuntu:wght@300&display=swap">
+    <style>
+        .header1{
+            padding: 50px 0px;
+            color: #005334;
+        }
+        .header1 .content{
+            margin: 10px;
+        }
+        .header1 img{
+            width: 100%;
+            height: 400px;
+            object-fit: cover;
+            border-radius: 6px;
+        }
+        .header1 video{
+            height: 400px;
+            object-fit: cover;
+        }
+        #loading {            
+            position: fixed;
+            left: 0px;
+            top: 0px;
+            width: 100%;
+            height: 100%;
+            z-index: 9999;
+            background-color: #fff;
+        }
+        #loading img{
+            position: relative;
+            left: 50%;
+            top: 50%;
+            transform: translate(-50%, -50%); 
+        }
+    </style>
+
+</head>
+
+<body>
+
+   <div id="loading">
+        <img src="~/images/loading.gif" alt="loading">
+    </div>
+
+    <div class="loading-content"> 
+        @await Html.PartialAsync("/Views/Home/navbar.cshtml")
+
+    <div class="header1">
+        <div class="container">
+            <div class="row">
+                <h3 class="text-center">@localizer["0"]</h3>
+                @* <p class="py-2 text-center">@localizer["1"]</p> *@
+                <hr class="mb-2">
+
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/1.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/1.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/2.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/2.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/3.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/3.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/4.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/4.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/5.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/5.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/6.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/6.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/7.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/7.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                <div class="col-md-4 mt-3">
+                    <div class="content">
+                        <a href="~/images/machine-projects/8.webp" target="_blank" title="image">
+                            <img src="~/images/machine-projects/8.webp" alt="projectImage" loading ="lazy">
+                        </a>
+                    </div>
+                </div>  
+                
+
+
+            </div>
+        </div>
+    </div>
+
+        @await Html.PartialAsync("/Views/Home/footer.cshtml")
+    </div>
+
+
+
+
+
+    <script src="~/content/jquery/dist/jquery.min.js"></script>    
+    <script src="~/content/scrollreveal/dist/scrollreveal.min.js"></script>
+    <script>
+        window.onload = function () {
+            $('#loading').hide();           
+        }
+    </script>    
+</body>
+
+</html>

@@ -169,6 +169,16 @@ namespace webUi
                     pattern: "/andritz",
                     defaults: new { controller = "projects", action = "andritz" }
                 );
+                endpoints.MapControllerRoute(
+                    name: "MachineProjects",
+                    pattern: "{culture}/tor-services-portable-lathe-machine-projects",
+                    defaults: new { controller = "projects", action = "machineProjects" }
+                );
+                 endpoints.MapControllerRoute(
+                    name: "MachineProjects",
+                    pattern: "/tor-services-portable-lathe-machine-projects",
+                    defaults: new { controller = "projects", action = "machineProjects" }
+                );
 
                 endpoints.MapControllerRoute(
                     name: "referanslar",

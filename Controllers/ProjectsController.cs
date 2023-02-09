@@ -33,6 +33,10 @@ namespace webUi.Controllers
         {
             return View();
         }
+        public IActionResult machineProjects()
+        {
+            return View();
+        }
         
         
         

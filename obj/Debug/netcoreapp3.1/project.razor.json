@@ -14417,6 +14417,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/emre/Documents/Projelerim/Tor Services/webUi/Views/Projects/MachineProjects.cshtml",
+      "TargetPath": "Views\\Projects\\MachineProjects.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/emre/Documents/Projelerim/Tor Services/webUi/Views/Projects/Adana2.cshtml",
       "TargetPath": "Views\\Projects\\Adana2.cshtml",
       "FileKind": "mvc"

@@ -345,3 +345,8 @@
 /Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.dll
 /Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.pdb
 /Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.genruntimeconfig.cache
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/Razor/Views/Projects/MachineProjects.cshtml.g.cs
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.MachineProjects.en.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.MachineProjects.es.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.MachineProjects.it.resources
+/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/Debug/netcoreapp3.1/webUi.Resources.Views.Projects.MachineProjects.tr.resources
