@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LLxAm8/Oq5K+XUy4QeemcIlQuwYiy4aZXS17p+KzivSWaIl35iQ5sxbSEL1LhfMd8wD3L+i+14arw/pVyatdfw==",
+  "dgSpecHash": "QK67mVRqEP1SZSjeoyCFn81F6iNk1/dCIJvXHKI/YKDmNAkGYnCxLml8EUIxrG2a7sB6wGoWYK0txCE1obwxmA==",
   "success": true,
-  "projectFilePath": "/Users/emre/Documents/Projelerim/Tor Services/webUi/webUi.csproj",
+  "projectFilePath": "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/webUi.csproj",
   "expectedPackageFiles": [
     "/Users/emre/.nuget/packages/microsoft.aspnetcore.antiforgery/2.1.1/microsoft.aspnetcore.antiforgery.2.1.1.nupkg.sha512",
     "/Users/emre/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.1.1/microsoft.aspnetcore.authentication.abstractions.2.1.1.nupkg.sha512",

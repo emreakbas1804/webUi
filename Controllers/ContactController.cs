@@ -76,14 +76,14 @@ namespace webUi.Controllers
             }
 
             MailMessage MyMail = new MailMessage();
-            MyMail.To.Add("info@torservicesturkey.com");
-            MyMail.From = new MailAddress("webform@torservicesturkey.com");
+            MyMail.To.Add("info@torservicesturkey.net");
+            MyMail.From = new MailAddress("webform@torservicesturkey.net");
             MyMail.Subject = "Tor-Services Turkey web sitesi İletişim Formu";
             MyMail.Body = $"<h2> İletişim Formuna Gelen Mesaj Detayı </h2> <hr> <br> <div> <p>Mail adresi : <b>{model.Mail}</b></p>  <p>Telefon Numarası : <b>{model.Phone}</b></p> <p>Mesajı : <b>{model.Message}</b></p></div>";
             MyMail.IsBodyHtml = true;
 
             SmtpClient smtp = new SmtpClient();
-            smtp.Credentials = new NetworkCredential("webform@torservicesturkey.com", "Tor.Services!23");
+            smtp.Credentials = new NetworkCredential("webform@torservicesturkey.net", "Tor.Services!23");
             smtp.Port = 587;
             smtp.Host = "mail.kurumsaleposta.com";
             smtp.EnableSsl = false;
@@ -206,14 +206,14 @@ namespace webUi.Controllers
 
             }
             MailMessage MyMail = new MailMessage();
-            MyMail.To.Add("info@torservicesturkey.com");
-            MyMail.From = new MailAddress("webform@torservicesturkey.com");
+            MyMail.To.Add("info@torservicesturkey.net");
+            MyMail.From = new MailAddress("webform@torservicesturkey.net");
             MyMail.Subject = "Tor-Services Turkey web sitesi İletişim Formu";
             MyMail.Body = $"<h2> Teklif Formuna Gelen Form Detayı </h2> <hr> <br> <div><p>Firma İsmi : <b>{model.CompanyName}</b></p>  <p>Firma Mail adresi : <b>{model.CompanyMail}</b></p>  <p>Firma Telefon Numarası : <b>{model.CompanyPhone}</b></p><p>Proje  İsmi : <b>{model.ProjectName}</b></p> <p>Proje detayı : <b>{model.ProjectDetails}</b></p>  <p>Beklentileri : <b>{model.RequestJob}</b></p></div>";
             MyMail.IsBodyHtml = true;
 
             SmtpClient smtp = new SmtpClient();
-            smtp.Credentials = new NetworkCredential("webform@torservicesturkey.com  ", "Tor.Services!23");
+            smtp.Credentials = new NetworkCredential("webform@torservicesturkey.net  ", "Tor.Services!23");
             smtp.Port = 587;
             smtp.Host = "mail.kurumsaleposta.com";
             smtp.EnableSsl = false;

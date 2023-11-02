@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/emre/Documents/Projelerim/Tor Services/webUi/webUi.csproj": {}
+    "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/webUi.csproj": {}
   },
   "projects": {
-    "/Users/emre/Documents/Projelerim/Tor Services/webUi/webUi.csproj": {
+    "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/webUi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/emre/Documents/Projelerim/Tor Services/webUi/webUi.csproj",
+        "projectUniqueName": "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/webUi.csproj",
         "projectName": "webUi",
-        "projectPath": "/Users/emre/Documents/Projelerim/Tor Services/webUi/webUi.csproj",
+        "projectPath": "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/webUi.csproj",
         "packagesPath": "/Users/emre/.nuget/packages/",
-        "outputPath": "/Users/emre/Documents/Projelerim/Tor Services/webUi/obj/",
+        "outputPath": "/Users/emre/Documents/Projelerim/yayinlanan/Tor Services/webUi/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/emre/.nuget/NuGet/NuGet.Config"
